@@ -1,13 +1,13 @@
 # Automating E2E Tests with Bedrock and Anthropic's "Computer Use"
 
-This repository contains sample code for a proof-of-concept (PoC) which allows developers to automate UI testing by simply writing test cases using natural language. It leverages Anthropic's `Claude 3.5 Sonnet v2` large language model (LLM), which interprets test scenarios and identifies UI components in an application. The `Claude 3.5 Sonnet v2` model includes the "computer use" (beta) feature, allowing it to interact with computers and execute actions within a web browser.
+This repository contains an experimental sample code which allows developers to automate UI testing by simply writing test cases using natural language. It leverages Anthropic's `Claude 3.5 Sonnet v2` large language model (LLM), which interprets test scenarios and identifies UI components in an application. The `Claude 3.5 Sonnet v2` model includes the "computer use" (beta) feature, allowing it to interact with computers and execute actions within a web browser.
 
-The PoC explores the feasibility of building proprietary tools around Claude's "computer use" capability, integrating with Claude, executing browser actions in headless mode, and running end-to-end test scenarios.
+This repo explores the feasibility of building proprietary tools around Claude's "computer use" capability, integrating with Claude, executing browser actions in headless mode, and running end-to-end test scenarios.
 
 This repository provides two experimental implementations of this testing framework, tailored to different testing needs:
 
-1. **Automated UI Tests** using the "Computer Tool" in a headless environment.  
-2. **Advanced E2E Tests** utilizing the "Bash and Text Editor Tools" in a React application.
+1. **integrating-with-headless-browser** using the "Computer Tool" in a headless environment.  
+2. **advanced-e2e-tests-with-react** utilizing the "Bash and Text Editor Tools" in a React application.
 
 ## Appendix
 ### Resources and reading material
