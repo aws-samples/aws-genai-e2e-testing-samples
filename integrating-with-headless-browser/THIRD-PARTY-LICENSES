@@ -1,0 +1,413 @@
+Name: cyclonedx-py
+Version: 5.1.1
+Description: CycloneDX Software Bill of Materials (SBOM) generator for Python projects and environments
+PURL: No PURL
+Licenses: Apache-2.0
+Copyright: No copyright information
+----------------------------------------
+Name: cyclonedx-python-lib
+Version: 8.5.0
+Description: Python library for CycloneDX
+PURL: No PURL
+Licenses: Apache-2.0
+Copyright: No copyright information
+----------------------------------------
+Name: PySocks
+Version: 1.7.1
+Description: A Python SOCKS client module. See https://github.com/Anorov/PySocks for more information.
+PURL: pkg:pypi/pysocks@1.7.1
+Licenses: No licenses
+Copyright: Author: Anorov, Author Email: anorov.vorona@gmail.com, License: BSD
+----------------------------------------
+Name: annotated-types
+Version: 0.7.0
+Description: Reusable constraint types to use with typing.Annotated
+PURL: pkg:pypi/annotated-types@0.7.0
+Licenses: MIT
+Copyright: Author Email: Adrian Garcia Badaracco <1755071+adriangb@users.noreply.github.com>, Samuel Colvin <s@muelcolvin.com>, Zac Hatfield-Dodds <zac@zhd.dev>
+----------------------------------------
+Name: anthropic
+Version: 0.42.0
+Description: The official Python library for the anthropic API
+PURL: pkg:pypi/anthropic@0.42.0
+Licenses: MIT
+Copyright: No copyright information
+----------------------------------------
+Name: anyio
+Version: 4.7.0
+Description: High level compatibility layer for multiple asynchronous event loop implementations
+PURL: pkg:pypi/anyio@4.7.0
+Licenses: MIT
+Copyright: Author Email: Alex Grönholm <alex.gronholm@nextday.fi>, License: MIT
+----------------------------------------
+Name: arrow
+Version: 1.3.0
+Description: Better dates & times for Python
+PURL: pkg:pypi/arrow@1.3.0
+Licenses: No licenses
+Copyright: No copyright information
+----------------------------------------
+Name: attrs
+Version: 24.3.0
+Description: Classes Without Boilerplate
+PURL: pkg:pypi/attrs@24.3.0
+Licenses: No licenses
+Copyright: Author Email: Hynek Schlawack <hs@ox.cx>
+----------------------------------------
+Name: boolean.py
+Version: 4.0
+Description: Define boolean algebras, create and parse boolean expressions and create custom boolean DSL.
+PURL: pkg:pypi/boolean.py@4.0
+Licenses: BSD-2-Clause
+Copyright: No copyright information
+----------------------------------------
+Name: boto3
+Version: 1.35.91
+Description: The AWS SDK for Python
+PURL: pkg:pypi/boto3@1.35.91
+Licenses: No licenses
+Copyright: No copyright information
+----------------------------------------
+Name: botocore
+Version: 1.35.91
+Description: Low-level, data-driven core of boto 3.
+PURL: pkg:pypi/botocore@1.35.91
+Licenses: No licenses
+Copyright: No copyright information
+----------------------------------------
+Name: certifi
+Version: 2024.12.14
+Description: Python package for providing Mozilla's CA Bundle.
+PURL: pkg:pypi/certifi@2024.12.14
+Licenses: MPL-2.0
+Copyright: Author: Kenneth Reitz, Author Email: me@kennethreitz.com, License: MPL-2.0
+----------------------------------------
+Name: chardet
+Version: 5.2.0
+Description: Universal encoding detector for Python 3
+PURL: pkg:pypi/chardet@5.2.0
+Licenses: No licenses
+Copyright: Author: Mark Pilgrim, Author Email: mark@diveintomark.org, License: LGPL
+----------------------------------------
+Name: cyclonedx-bom
+Version: 5.1.1
+Description: CycloneDX Software Bill of Materials (SBOM) generator for Python projects and environments
+PURL: pkg:pypi/cyclonedx-bom@5.1.1
+Licenses: Apache-2.0
+Copyright: No copyright information
+----------------------------------------
+Name: cyclonedx-python-lib
+Version: 8.5.0
+Description: Python library for CycloneDX
+PURL: pkg:pypi/cyclonedx-python-lib@8.5.0
+Licenses: Apache-2.0
+Copyright: No copyright information
+----------------------------------------
+Name: defusedxml
+Version: 0.7.1
+Description: XML bomb protection for Python stdlib modules
+PURL: pkg:pypi/defusedxml@0.7.1
+Licenses: Python-2.0
+Copyright: Author: Christian Heimes, Author Email: christian@python.org, License: PSFL
+----------------------------------------
+Name: distro
+Version: 1.9.0
+Description: Distro - an OS platform information API
+PURL: pkg:pypi/distro@1.9.0
+Licenses: No licenses
+Copyright: Author: Nir Cohen, Author Email: nir36g@gmail.com, License: Apache License, Version 2.0
+----------------------------------------
+Name: fqdn
+Version: 1.5.1
+Description: Validates fully-qualified domain names against RFC 1123, so that they are acceptable to modern bowsers
+PURL: pkg:pypi/fqdn@1.5.1
+Licenses: No licenses
+Copyright: No copyright information
+----------------------------------------
+Name: h11
+Version: 0.14.0
+Description: A pure-Python, bring-your-own-I/O implementation of HTTP/1.1
+PURL: pkg:pypi/h11@0.14.0
+Licenses: MIT
+Copyright: Author: Nathaniel J. Smith, Author Email: njs@pobox.com, License: MIT
+----------------------------------------
+Name: httpcore
+Version: 1.0.7
+Description: A minimal low-level HTTP client.
+PURL: pkg:pypi/httpcore@1.0.7
+Licenses: BSD-3-Clause
+Copyright: Author Email: Tom Christie <tom@tomchristie.com>, License: BSD-3-Clause
+----------------------------------------
+Name: httpx
+Version: 0.28.1
+Description: The next generation HTTP client.
+PURL: pkg:pypi/httpx@0.28.1
+Licenses: BSD-3-Clause
+Copyright: Author Email: Tom Christie <tom@tomchristie.com>, License: BSD-3-Clause
+----------------------------------------
+Name: idna
+Version: 3.10
+Description: Internationalized Domain Names in Applications (IDNA)
+PURL: pkg:pypi/idna@3.10
+Licenses: No licenses
+Copyright: Author Email: Kim Davies <kim+pypi@gumleaf.org>
+----------------------------------------
+Name: isoduration
+Version: 20.11.0
+Description: Operations with ISO 8601 durations
+PURL: pkg:pypi/isoduration@20.11.0
+Licenses: ISC
+Copyright: No copyright information
+----------------------------------------
+Name: jiter
+Version: 0.8.2
+Description: Fast iterable JSON parser.
+PURL: pkg:pypi/jiter@0.8.2
+Licenses: MIT
+Copyright: Author: Samuel Colvin <samuel@pydantic.dev>, Author Email: Samuel Colvin <s@muelcolvin.com>, License: MIT
+----------------------------------------
+Name: jmespath
+Version: 1.0.1
+Description: JSON Matching Expressions
+PURL: pkg:pypi/jmespath@1.0.1
+Licenses: MIT
+Copyright: No copyright information
+----------------------------------------
+Name: jsonpointer
+Version: 3.0.0
+Description: Identify specific nodes in a JSON document (RFC 6901) 
+PURL: pkg:pypi/jsonpointer@3.0.0
+Licenses: No licenses
+Copyright: Author: Stefan Kögl, Author Email: stefan@skoegl.net, License: Modified BSD License
+----------------------------------------
+Name: jsonschema
+Version: 4.22.0
+Description: An implementation of JSON Schema validation for Python
+PURL: pkg:pypi/jsonschema@4.22.0
+Licenses: MIT
+Copyright: Author Email: Julian Berman <Julian+jsonschema@GrayVines.com>, License: MIT
+----------------------------------------
+Name: jsonschema-specifications
+Version: 2024.10.1
+Description: The JSON Schema meta-schemas and vocabularies, exposed as a Registry
+PURL: pkg:pypi/jsonschema-specifications@2024.10.1
+Licenses: MIT
+Copyright: Author Email: Julian Berman <Julian+jsonschema-specifications@GrayVines.com>
+----------------------------------------
+Name: license-expression
+Version: 30.4.0
+Description: license-expression is a comprehensive utility library to parse, compare, simplify and normalize license expressions (such as SPDX license expressions) using boolean logic.
+PURL: pkg:pypi/license-expression@30.4.0
+Licenses: Apache-2.0
+Copyright: No copyright information
+----------------------------------------
+Name: lxml
+Version: 5.3.0
+Description: Powerful and Pythonic XML processing library combining libxml2/libxslt with the ElementTree API.
+PURL: pkg:pypi/lxml@5.3.0
+Licenses: BSD-3-Clause
+Copyright: Author: lxml dev team, Author Email: lxml-dev@lxml.de, License: BSD-3-Clause
+----------------------------------------
+Name: outcome
+Version: 1.3.0.post0
+Description: Capture the outcome of Python function calls.
+PURL: pkg:pypi/outcome@1.3.0.post0
+Licenses: No licenses
+Copyright: No copyright information
+----------------------------------------
+Name: packageurl-python
+Version: 0.16.0
+Description: A purl aka. Package URL parser and builder
+PURL: pkg:pypi/packageurl-python@0.16.0
+Licenses: MIT
+Copyright: No copyright information
+----------------------------------------
+Name: packaging
+Version: 24.2
+Description: Core utilities for Python packages
+PURL: pkg:pypi/packaging@24.2
+Licenses: No licenses
+Copyright: Author Email: Donald Stufft <donald@stufft.io>
+----------------------------------------
+Name: pip
+Version: 23.2.1
+Description: The PyPA recommended tool for installing Python packages.
+PURL: pkg:pypi/pip@23.2.1
+Licenses: MIT
+Copyright: Author Email: The pip developers <distutils-sig@python.org>, License: MIT
+----------------------------------------
+Name: pip-requirements-parser
+Version: 32.0.1
+Description: pip requirements parser - a mostly correct pip requirements parsing library because it uses pip's own code.
+PURL: pkg:pypi/pip-requirements-parser@32.0.1
+Licenses: MIT
+Copyright: No copyright information
+----------------------------------------
+Name: py-serializable
+Version: 1.1.2
+Description: Library for serializing and deserializing Python Objects to and from JSON and XML.
+PURL: pkg:pypi/py-serializable@1.1.2
+Licenses: Apache-2.0
+Copyright: No copyright information
+----------------------------------------
+Name: pydantic
+Version: 2.10.4
+Description: Data validation using Python type hints
+PURL: pkg:pypi/pydantic@2.10.4
+Licenses: MIT
+Copyright: Author Email: Samuel Colvin <s@muelcolvin.com>, Eric Jolibois <em.jolibois@gmail.com>, Hasan Ramezani <hasan.r67@gmail.com>, Adrian Garcia Badaracco <1755071+adriangb@users.noreply.github.com>, Terrence Dorsey <terry@pydantic.dev>, David Montague <david@pydantic.dev>, Serge Matveenko <lig@countzero.co>, Marcelo Trylesinski <marcelotryle@gmail.com>, Sydney Runkle <sydneymarierunkle@gmail.com>, David Hewitt <mail@davidhewitt.io>, Alex Hall <alex.mojaki@gmail.com>, Victorien Plot <contact@vctrn.dev>, License: MIT
+----------------------------------------
+Name: pydantic_core
+Version: 2.27.2
+Description: Core functionality for Pydantic validation and serialization
+PURL: pkg:pypi/pydantic-core@2.27.2
+Licenses: MIT
+Copyright: Author Email: Samuel Colvin <s@muelcolvin.com>, License: MIT
+----------------------------------------
+Name: pyparsing
+Version: 3.2.1
+Description: pyparsing module - Classes and methods to define and execute parsing grammars
+PURL: pkg:pypi/pyparsing@3.2.1
+Licenses: MIT
+Copyright: Author Email: Paul McGuire <ptmcg.gm+pyparsing@gmail.com>
+----------------------------------------
+Name: python-dateutil
+Version: 2.9.0.post0
+Description: Extensions to the standard Python datetime module
+PURL: pkg:pypi/python-dateutil@2.9.0.post0
+Licenses: No licenses
+Copyright: Author: Gustavo Niemeyer, Author Email: gustavo@niemeyer.net, License: Dual License
+----------------------------------------
+Name: referencing
+Version: 0.35.1
+Description: JSON Referencing + Python
+PURL: pkg:pypi/referencing@0.35.1
+Licenses: MIT
+Copyright: Author Email: Julian Berman <Julian+referencing@GrayVines.com>
+----------------------------------------
+Name: rfc3339-validator
+Version: 0.1.4
+Description: A pure python RFC3339 validator
+PURL: pkg:pypi/rfc3339-validator@0.1.4
+Licenses: MIT
+Copyright: No copyright information
+----------------------------------------
+Name: rfc3987
+Version: 1.3.8
+Description: Parsing and validation of URIs (RFC 3986) and IRIs (RFC 3987)
+PURL: pkg:pypi/rfc3987@1.3.8
+Licenses: GPL-3.0-or-later
+Copyright: No copyright information
+----------------------------------------
+Name: rpds-py
+Version: 0.22.3
+Description: Python bindings to Rust's persistent data structures (rpds)
+PURL: pkg:pypi/rpds-py@0.22.3
+Licenses: MIT
+Copyright: Author Email: Julian Berman <Julian+rpds@GrayVines.com>
+----------------------------------------
+Name: s3transfer
+Version: 0.10.4
+Description: An Amazon S3 Transfer Manager
+PURL: pkg:pypi/s3transfer@0.10.4
+Licenses: No licenses
+Copyright: No copyright information
+----------------------------------------
+Name: selenium
+Version: 4.27.1
+Description: Official Python bindings for Selenium WebDriver
+PURL: pkg:pypi/selenium@4.27.1
+Licenses: No licenses
+Copyright: No copyright information
+----------------------------------------
+Name: setuptools
+Version: 68.2.2
+Description: Easily download, build, install, upgrade, and uninstall Python packages
+PURL: pkg:pypi/setuptools@68.2.2
+Licenses: MIT
+Copyright: Author Email: Python Packaging Authority <distutils-sig@python.org>
+----------------------------------------
+Name: six
+Version: 1.17.0
+Description: Python 2 and 3 compatibility utilities
+PURL: pkg:pypi/six@1.17.0
+Licenses: MIT
+Copyright: Author: Benjamin Peterson, Author Email: benjamin@python.org, License: MIT
+----------------------------------------
+Name: sniffio
+Version: 1.3.1
+Description: Sniff out which async library your code is running under
+PURL: pkg:pypi/sniffio@1.3.1
+Licenses: No licenses
+Copyright: Author Email: "Nathaniel J. Smith" <njs@pobox.com>, License: MIT OR Apache-2.0
+----------------------------------------
+Name: sortedcontainers
+Version: 2.4.0
+Description: Sorted Containers -- Sorted List, Sorted Dict, Sorted Set
+PURL: pkg:pypi/sortedcontainers@2.4.0
+Licenses: No licenses
+Copyright: No copyright information
+----------------------------------------
+Name: trio
+Version: 0.28.0
+Description: A friendly Python library for async concurrency and I/O
+PURL: pkg:pypi/trio@0.28.0
+Licenses: No licenses
+Copyright: No copyright information
+----------------------------------------
+Name: trio-websocket
+Version: 0.11.1
+Description: WebSocket library for Trio
+PURL: pkg:pypi/trio-websocket@0.11.1
+Licenses: MIT
+Copyright: No copyright information
+----------------------------------------
+Name: types-python-dateutil
+Version: 2.9.0.20241206
+Description: Typing stubs for python-dateutil
+PURL: pkg:pypi/types-python-dateutil@2.9.0.20241206
+Licenses: Apache-2.0
+Copyright: No copyright information
+----------------------------------------
+Name: typing_extensions
+Version: 4.12.2
+Description: Backported and Experimental Type Hints for Python 3.8+
+PURL: pkg:pypi/typing-extensions@4.12.2
+Licenses: Python-2.0
+Copyright: Author Email: "Guido van Rossum, Jukka Lehtosalo, Łukasz Langa, Michael Lee" <levkivskyi@gmail.com>
+----------------------------------------
+Name: uri-template
+Version: 1.3.0
+Description: RFC 6570 URI Template Processor
+PURL: pkg:pypi/uri-template@1.3.0
+Licenses: MIT
+Copyright: No copyright information
+----------------------------------------
+Name: urllib3
+Version: 2.3.0
+Description: HTTP library with thread-safe connection pooling, file post, and more.
+PURL: pkg:pypi/urllib3@2.3.0
+Licenses: MIT
+Copyright: Author Email: Andrey Petrov <andrey.petrov@shazow.net>
+----------------------------------------
+Name: webcolors
+Version: 24.11.1
+Description: A library for working with the color formats defined by HTML and CSS.
+PURL: pkg:pypi/webcolors@24.11.1
+Licenses: BSD-3-Clause
+Copyright: Author: James Bennett, License: BSD-3-Clause
+----------------------------------------
+Name: websocket-client
+Version: 1.8.0
+Description: WebSocket client for Python with low level API options
+PURL: pkg:pypi/websocket-client@1.8.0
+Licenses: Apache-2.0
+Copyright: Author: liris, Author Email: liris.pp@gmail.com, License: Apache-2.0
+----------------------------------------
+Name: wsproto
+Version: 1.2.0
+Description: WebSockets state-machine based protocol implementation
+PURL: pkg:pypi/wsproto@1.2.0
+Licenses: MIT
+Copyright: No copyright information
+----------------------------------------

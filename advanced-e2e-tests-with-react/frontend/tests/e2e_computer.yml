@@ -1,0 +1,15 @@
+tests:
+  - name: "sad path: non existent component"
+    prompt: |
+      Find a 'Non Existent Component' button and click on it.
+      Don't navigate to another page.
+      Verify that the button does 'exist' on the page. 
+    expected_response: "Fail"
+  - name: "happy path: user can create new item successfully"
+    prompt: |
+      You are to verify that a user can create a new item by following these instructions:
+      - Click on the 'Add Item' button
+      - Create a new item with the name 'New Gadgets'
+      - Click on the 'Add Item' button to save the form
+      - Verify that 'New Gadgets' item is added to the list
+    expected_response: "Pass"

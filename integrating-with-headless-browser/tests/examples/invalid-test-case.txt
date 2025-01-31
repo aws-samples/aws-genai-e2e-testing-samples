@@ -1,0 +1,8 @@
+https://www.amazon.com/
+
+You are on amazon.com website.
+Search for 'xbox' in the search bar at the top.
+You should see a list of search results, not the ones from the searchbar dropdown, but rather in the page itself.
+Click on the first item in the list.
+You should see product details.
+Finally verify that the product is a barbie doll.

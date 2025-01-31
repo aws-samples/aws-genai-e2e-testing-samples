@@ -1,0 +1,15 @@
+tests:
+  - name: "happy path: download image, verify that its downloaded"
+    prompt: |
+      You are on the home page. Find the 'Download Image' button and click it.
+      It should download an image. Assert that the image is downloaded.
+      Check the downloaded image file in the home downloads folder.
+      If downloaded move it into the 'Test Demo' folder
+    expected_response: "Pass"
+
+  - name: "sad path: find non existent file"
+    prompt: |
+      In my home Downloads folder, I have a 'Tests Demo' folder.
+      DO NOT navigate to or look for it in any other paths.
+      Verify that I have a file named 'nonexistent-demo-file.jpg' in the 'Tests Demo' folder.
+    expected_response: "Fail"
