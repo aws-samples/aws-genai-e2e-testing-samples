@@ -53,6 +53,9 @@ PROVIDER_TO_DEFAULT_MODEL_NAME: dict[APIProvider, str] = {
     APIProvider.BEDROCK: "anthropic.claude-3-5-sonnet-20241022-v2:0",
 }
 
+today = datetime.today()
+day = today.day
+
 # This system prompt is optimized for the Docker environment in this repository and
 # specific tool combinations enabled.
 # We encourage modifying this system prompt to ensure the model has context for the
@@ -65,7 +68,7 @@ SYSTEM_PROMPT = f"""<SYSTEM_CAPABILITY>
 * When using your computer function calls, they take a while to run and send back to you.  Where possible/feasible, try to chain multiple of these calls all into one function calls request.
 * You will be provided with a test case scenario, which includes an assertion condition at the end. After executing all the actions needed for the test, your final message should ONLY be 1 word either '{SUCCESS_INDICATOR.title()}' or '{FAILURE_INDICATOR.title()}' to indicate whether the assertion was met.
 * Let me know if you cannot perform an action.
-* The current date is {datetime.today().strftime('%A, %B %-d, %Y')}.
+* The current date is {datetime.today().strftime(f'%A, %B {day}, %Y')}.
 </SYSTEM_CAPABILITY>
 """
 
